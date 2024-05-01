@@ -1,262 +1,261 @@
 {
-    "city": {
-    "id": 2643743,
-    "name": "London",
-    "coord": {
-    "lon": -0.1257,
-    "lat": 51.5085
-    },
-    "country": "GB",
-    "population": 1000000,
-    "timezone": 3600
-    },
-    "cod": "200",
-    "message": 0.0557671,
-    "cnt": 7,
-    "list": [
-    {
-    "dt": 1714561200,
-    "sunrise": 1714537895,
-    "sunset": 1714591401,
-    "temp": {
-    "day": 64.47,
-    "min": 49.64,
-    "max": 66.42,
-    "night": 56.26,
-    "eve": 66.09,
-    "morn": 49.89
-    },
-    "feels_like": {
-    "day": 63.54,
-    "night": 55.87,
-    "eve": 65.64,
-    "morn": 49.89
-    },
-    "pressure": 1007,
-    "humidity": 62,
-    "weather": [
-    {
-    "id": 500,
-    "main": "Rain",
-    "description": "light rain",
-    "icon": "10d"
-    }
-    ],
-    "speed": 7.2,
-    "deg": 8,
-    "gust": 20.78,
-    "clouds": 94,
-    "pop": 1,
-    "rain": 2.13
-    },
-    {
-    "dt": 1714647600,
-    "sunrise": 1714624185,
-    "sunset": 1714677900,
-    "temp": {
-    "day": 57.27,
-    "min": 50.7,
-    "max": 60.67,
-    "night": 50.7,
-    "eve": 58.78,
-    "morn": 52.48
-    },
-    "feels_like": {
-    "day": 56.98,
-    "night": 49.69,
-    "eve": 58.5,
-    "morn": 52.03
-    },
-    "pressure": 1001,
-    "humidity": 91,
-    "weather": [
-    {
-    "id": 500,
-    "main": "Rain",
-    "description": "light rain",
-    "icon": "10d"
-    }
-    ],
-    "speed": 10.71,
-    "deg": 251,
-    "gust": 22.59,
-    "clouds": 100,
-    "pop": 1,
-    "rain": 1.76
-    },
-    {
-    "dt": 1714734000,
-    "sunrise": 1714710475,
-    "sunset": 1714764399,
-    "temp": {
-    "day": 48.61,
-    "min": 46.58,
-    "max": 56.59,
-    "night": 48.67,
-    "eve": 56.14,
-    "morn": 47.55
-    },
-    "feels_like": {
-    "day": 43.97,
-    "night": 46.18,
-    "eve": 54.5,
-    "morn": 42.17
-    },
-    "pressure": 1010,
-    "humidity": 89,
-    "weather": [
-    {
-    "id": 501,
-    "main": "Rain",
-    "description": "moderate rain",
-    "icon": "10d"
-    }
-    ],
-    "speed": 13.85,
-    "deg": 248,
-    "gust": 29.28,
-    "clouds": 100,
-    "pop": 1,
-    "rain": 6.77
-    },
-    {
-    "dt": 1714820400,
-    "sunrise": 1714796768,
-    "sunset": 1714850897,
-    "temp": {
-    "day": 60.19,
-    "min": 44.71,
-    "max": 63.37,
-    "night": 52.54,
-    "eve": 57.18,
-    "morn": 44.71
-    },
-    "feels_like": {
-    "day": 58.06,
-    "night": 51.3,
-    "eve": 55.89,
-    "morn": 43.39
-    },
-    "pressure": 1011,
-    "humidity": 46,
-    "weather": [
-    {
-    "id": 500,
-    "main": "Rain",
-    "description": "light rain",
-    "icon": "10d"
-    }
-    ],
-    "speed": 5.48,
-    "deg": 199,
-    "gust": 16.82,
-    "clouds": 9,
-    "pop": 0.29,
-    "rain": 0.63
-    },
-    {
-    "dt": 1714906800,
-    "sunrise": 1714883061,
-    "sunset": 1714937395,
-    "temp": {
-    "day": 63.91,
-    "min": 47.25,
-    "max": 64.33,
-    "night": 56.14,
-    "eve": 59.52,
-    "morn": 49.03
-    },
-    "feels_like": {
-    "day": 62.08,
-    "night": 54.32,
-    "eve": 57.96,
-    "morn": 49.03
-    },
-    "pressure": 1011,
-    "humidity": 44,
-    "weather": [
-    {
-    "id": 803,
-    "main": "Clouds",
-    "description": "broken clouds",
-    "icon": "04d"
-    }
-    ],
-    "speed": 8.59,
-    "deg": 181,
-    "gust": 16.15,
-    "clouds": 54,
-    "pop": 0
-    },
-    {
-    "dt": 1714993200,
-    "sunrise": 1714969357,
-    "sunset": 1715023892,
-    "temp": {
-    "day": 53.58,
-    "min": 51.44,
-    "max": 56.21,
-    "night": 53.29,
-    "eve": 54.57,
-    "morn": 51.44
-    },
-    "feels_like": {
-    "day": 52.86,
-    "night": 52.47,
-    "eve": 53.58,
-    "morn": 50.76
-    },
-    "pressure": 1008,
-    "humidity": 90,
-    "weather": [
-    {
-    "id": 500,
-    "main": "Rain",
-    "description": "light rain",
-    "icon": "10d"
-    }
-    ],
-    "speed": 10.13,
-    "deg": 75,
-    "gust": 25.9,
-    "clouds": 100,
-    "pop": 1,
-    "rain": 5.71
-    },
-    {
-    "dt": 1715079600,
-    "sunrise": 1715055654,
-    "sunset": 1715110389,
-    "temp": {
-    "day": 62.76,
-    "min": 52.57,
-    "max": 62.76,
-    "night": 53.82,
-    "eve": 59.36,
-    "morn": 53.17
-    },
-    "feels_like": {
-    "day": 62.08,
-    "night": 53.28,
-    "eve": 58.57,
-    "morn": 52.79
-    },
-    "pressure": 1009,
-    "humidity": 71,
-    "weather": [
-    {
-    "id": 500,
-    "main": "Rain",
-    "description": "light rain",
-    "icon": "10d"
-    }
-    ],
-    "speed": 9.57,
-    "deg": 77,
-    "gust": 25.84,
-    "clouds": 95,
-    "pop": 1,
-    "rain": 4.68
-    }
-    ]
-    }
+"city": {
+"id": 745042,
+"name": "Istanbul",
+"coord": {
+"lon": 28.9833,
+"lat": 41.0351
+},
+"country": "TR",
+"population": 11581707,
+"timezone": 10800
+},
+"cod": "200",
+"message": 0.0458899,
+"cnt": 7,
+"list": [
+{
+"dt": 1714557600,
+"sunrise": 1714532501,
+"sunset": 1714582824,
+"temp": {
+"day": 59.02,
+"min": 55.83,
+"max": 59.22,
+"night": 55.83,
+"eve": 56.77,
+"morn": 55.99
+},
+"feels_like": {
+"day": 58.48,
+"night": 55.11,
+"eve": 56.05,
+"morn": 55.62
+},
+"pressure": 1017,
+"humidity": 82,
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"speed": 14.81,
+"deg": 38,
+"gust": 25.43,
+"clouds": 100,
+"pop": 1,
+"rain": 2.19
+},
+{
+"dt": 1714644000,
+"sunrise": 1714618825,
+"sunset": 1714669288,
+"temp": {
+"day": 57.04,
+"min": 53.73,
+"max": 59.68,
+"night": 56.37,
+"eve": 57.99,
+"morn": 54.99
+},
+"feels_like": {
+"day": 56.53,
+"night": 55.8,
+"eve": 57.25,
+"morn": 54.46
+},
+"pressure": 1013,
+"humidity": 87,
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"speed": 5.99,
+"deg": 242,
+"gust": 10.83,
+"clouds": 100,
+"pop": 0.73,
+"rain": 0.54
+},
+{
+"dt": 1714730400,
+"sunrise": 1714705150,
+"sunset": 1714755752,
+"temp": {
+"day": 56.55,
+"min": 54.07,
+"max": 57.15,
+"night": 54.07,
+"eve": 55.09,
+"morn": 55.27
+},
+"feels_like": {
+"day": 55.85,
+"night": 53.69,
+"eve": 54.57,
+"morn": 54.73
+},
+"pressure": 1008,
+"humidity": 84,
+"weather": [
+{
+"id": 501,
+"main": "Rain",
+"description": "moderate rain",
+"icon": "10d"
+}
+],
+"speed": 6.06,
+"deg": 327,
+"gust": 9.6,
+"clouds": 100,
+"pop": 1,
+"rain": 6.05
+},
+{
+"dt": 1714816800,
+"sunrise": 1714791477,
+"sunset": 1714842216,
+"temp": {
+"day": 61.79,
+"min": 54.72,
+"max": 62.29,
+"night": 56.35,
+"eve": 58.21,
+"morn": 56.3
+},
+"feels_like": {
+"day": 61.2,
+"night": 55.78,
+"eve": 57.78,
+"morn": 55.87
+},
+"pressure": 1007,
+"humidity": 75,
+"weather": [
+{
+"id": 501,
+"main": "Rain",
+"description": "moderate rain",
+"icon": "10d"
+}
+],
+"speed": 17.02,
+"deg": 33,
+"gust": 28.05,
+"clouds": 99,
+"pop": 1,
+"rain": 6.27
+},
+{
+"dt": 1714903200,
+"sunrise": 1714877805,
+"sunset": 1714928679,
+"temp": {
+"day": 62.73,
+"min": 53.73,
+"max": 63.28,
+"night": 55.33,
+"eve": 60.42,
+"morn": 53.73
+},
+"feels_like": {
+"day": 61.05,
+"night": 53.62,
+"eve": 58.37,
+"morn": 52.88
+},
+"pressure": 1015,
+"humidity": 50,
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "sky is clear",
+"icon": "01d"
+}
+],
+"speed": 14.27,
+"deg": 36,
+"gust": 24.85,
+"clouds": 0,
+"pop": 0
+},
+{
+"dt": 1714989600,
+"sunrise": 1714964134,
+"sunset": 1715015143,
+"temp": {
+"day": 61.07,
+"min": 50.49,
+"max": 64.27,
+"night": 58.87,
+"eve": 63.73,
+"morn": 50.49
+},
+"feels_like": {
+"day": 59,
+"night": 56.57,
+"eve": 61.41,
+"morn": 48.67
+},
+"pressure": 1013,
+"humidity": 45,
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "sky is clear",
+"icon": "01d"
+}
+],
+"speed": 6.02,
+"deg": 213,
+"gust": 7.7,
+"clouds": 3,
+"pop": 0
+},
+{
+"dt": 1715076000,
+"sunrise": 1715050465,
+"sunset": 1715101606,
+"temp": {
+"day": 65.23,
+"min": 56.43,
+"max": 66.11,
+"night": 60.93,
+"eve": 62.51,
+"morn": 56.43
+},
+"feels_like": {
+"day": 64.13,
+"night": 60.67,
+"eve": 62.31,
+"morn": 54.91
+},
+"pressure": 1011,
+"humidity": 57,
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"speed": 10.69,
+"deg": 223,
+"gust": 18.48,
+"clouds": 96,
+"pop": 1,
+"rain": 2.88
+}
+]
+}
